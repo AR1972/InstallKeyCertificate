@@ -82,7 +82,7 @@ MT.exe -manifest manifest.xml -outputresource:"$(OutDir)sony.exe";1</NMakeReBuil
     <ResourceCompile Include="sony.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ACER.XRM-MS" />
+    <None Include="SONY.XRM-MS" />
     <None Include="manifest.xml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

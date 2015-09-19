@@ -82,7 +82,7 @@ MT.exe -manifest manifest.xml -outputresource:"$(OutDir)gigabyte.exe";1</NMakeRe
     <ResourceCompile Include="gigabyte.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ACER.XRM-MS" />
+    <None Include="GIGABYTE.XRM-MS" />
     <None Include="manifest.xml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -42,9 +42,9 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <NMakeBuildCommandLine>CL.EXE /c /O1 /GS- /Oi- *.cpp /Fo"$(IntDir)acer.obj"</NMakeBuildCommandLine>
+    <NMakeBuildCommandLine>CL.EXE /c /O1 /GS- /Oi- *.cpp /Fo"$(IntDir)asus.obj"</NMakeBuildCommandLine>
     <NMakeOutput>asus.exe</NMakeOutput>
-    <NMakeReBuildCommandLine>CL.EXE /c /O1 /GS- /Oi- *.cpp /Fo"$(IntDir)acer.obj"</NMakeReBuildCommandLine>
+    <NMakeReBuildCommandLine>CL.EXE /c /O1 /GS- /Oi- *.cpp /Fo"$(IntDir)asus.obj"</NMakeReBuildCommandLine>
     <NMakePreprocessorDefinitions>WIN32;_DEBUG;$(NMakePreprocessorDefinitions)</NMakePreprocessorDefinitions>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">

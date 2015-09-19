@@ -82,7 +82,7 @@ MT.exe -manifest manifest.xml -outputresource:"$(OutDir)alienware.exe";1</NMakeR
     <ResourceCompile Include="alienware.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ACER.XRM-MS" />
+    <None Include="ALIENWARE.XRM-MS" />
     <None Include="manifest.xml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
