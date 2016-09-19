@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gigabyte", "gigabyte\gigaby
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HP", "HP\HP.vcxproj", "{9C4240A2-8804-4D79-A061-2B6EBAB3126D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dell", "dell\dell.vcxproj", "{1F889F66-AE2E-4B04-B6F2-4712C4F03163}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -50,6 +52,10 @@ Global
 		{9C4240A2-8804-4D79-A061-2B6EBAB3126D}.Debug|Win32.Build.0 = Debug|Win32
 		{9C4240A2-8804-4D79-A061-2B6EBAB3126D}.Release|Win32.ActiveCfg = Release|Win32
 		{9C4240A2-8804-4D79-A061-2B6EBAB3126D}.Release|Win32.Build.0 = Release|Win32
+		{1F889F66-AE2E-4B04-B6F2-4712C4F03163}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F889F66-AE2E-4B04-B6F2-4712C4F03163}.Debug|Win32.Build.0 = Debug|Win32
+		{1F889F66-AE2E-4B04-B6F2-4712C4F03163}.Release|Win32.ActiveCfg = Release|Win32
+		{1F889F66-AE2E-4B04-B6F2-4712C4F03163}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
